@@ -1,6 +1,6 @@
 # MongoDB Microservice App 
 
-This is a simple Node.js microservice connected to a MongoDB database. It was created for SIT323 Cloud Native Application Development at Deakin University.
+This is a simple Node.js microservice connected to a MongoDB database. It was created for SIT323 Cloud Native Application Development.
 
 ## What the App Does
 
@@ -30,7 +30,7 @@ Example output:
 
 ---
 
-## 🚀 How to Run the App
+## How to Run the App
 
 1. **Start Minikube**
    ```
